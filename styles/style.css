@@ -1,0 +1,11 @@
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    }
+#search_input_text{
+    display: block;
+    margin: auto;
+    margin-top: 2%;
+}
